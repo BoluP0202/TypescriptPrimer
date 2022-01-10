@@ -1,0 +1,24 @@
+{
+  "name": "typescriptprimer",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoluP0202/TypescriptPrimer.git"
+  },
+  "author": "Bolu :)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BoluP0202/TypescriptPrimer/issues"
+  },
+  "homepage": "https://github.com/BoluP0202/TypescriptPrimer#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.5",
+    "typescript": "^4.5.4"
+  }
+}
